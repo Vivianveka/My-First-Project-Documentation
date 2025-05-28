@@ -1,7 +1,11 @@
+
+[Jump to PDC](###Data-Preparation-&-Cleaning)
+
+
 # My-First-Project-Documentation
 This is where i started my portfolio building while taking Data Analysis class with incubator                                                                            
 
-I have learnt a number of things ranging from Ms Excel and SQL and now to my portfoilio building
+I have learnt a number of things ranging from Ms Excel and SQL and now to my portfolio building
 
 ## ProjecTopic: E Commerce Salea Analysis
 
@@ -48,3 +52,10 @@ Retrieve total sales per month
       GROUP BY sales_month
       ORDER BY sales_month;
 ***
+
+## Analysis
+![chart](https://github.com/user-attachments/assets/78550d20-81f7-40d4-963a-ed266f20546a)
+
+### Conclusion
+This project showcases an in-depth e-commerce sales analysis using Excel and SQL, helping businesses make data-driven decisions. By performing data cleaning, EDA, SQL querying, and visualization, we gain valuable insights into sales trends, customer behavior, and operational efficiency.
+Would you like guidance on structuring a dataset or implementing SQL queries for your analysis? Let's refine it together!
