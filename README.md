@@ -17,7 +17,7 @@ Data Sources are from online
 - Marketing Performance: Ad campaign success, email marketing results, and discount effectiveness.
 
 ### Tools Used
-- Ms Excel for data cleaning [Download Here{https://wwww.microsoft.com}]
+- Ms Excel for data cleaning [Download Here](https://wwww.microsoft.com)
       - For data collection
       - For data cleaning
             - Data manipulation
