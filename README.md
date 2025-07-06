@@ -84,7 +84,7 @@ Retrieve total sales per month
 ***
 
 ## Analysis
-![chart](https://github.com/user-attachments/assets/78550d20-81f7-40d4-963a-ed266f20546a)
+![chart](https://github.com/user-attachments/assets/78550d20-81f7-40d4-963a-ed266f20546a)(C:\Users\LENOVO\OneDrive\Desktop)
 
 ### Conclusion
 - Excel was powerful for visualizing trends in product reviews and customer feedback on Amazon.
