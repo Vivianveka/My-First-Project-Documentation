@@ -30,8 +30,7 @@ The dataset for this analysis comes from online e-commerce platforms. Sources ma
        2. data munching
 
 ## Analysis
-
-
+![chart](https://github.com/user-attachments/assets/2365dff3-32d8-425c-b0b5-bc02c032bbca)
 
 ### Project 2 Overview of Kultra Mega Stores Inventory Analysis [SEE SQL PROJECT](https://drive.google.com/file/d/1KmNoXKgkNiFEEuag1adMWJ7J4ACW6FC0/view?usp=sharing)
 
@@ -86,9 +85,6 @@ Retrieve total sales per month
      GROUP BY [Product_Category]
      ORDER BY TotalSales DESC;
 ***
-
-## Analysis
-![chart](https://github.com/user-attachments/assets/78550d20-81f7-40d4-963a-ed266f20546a)(C:\Users\LENOVO\OneDrive\Desktop)
 
 ### Conclusion
 - Excel was powerful for visualizing trends in product reviews and customer feedback on Amazon.
