@@ -8,7 +8,7 @@ I have learnt a number of things ranging from Ms Excel and SQL and now to my por
 
 ## ProjecTopic: Amazon Product Review Analysis and Kultra Mega Stores Inventory Analysis
 
-### Project 1 Overview of  Amazon Product Review Analysis
+### Project 1 Overview of  Amazon Product Review Analysis [SEE PROJECT] (https://docs.google.com/spreadsheets/d/1EUs3A12lauBiQOc4uDmswa_YXKLJB05A/edit?usp=sharing&ouid=113106892741220617192&rtpof=true&sd=true)
 
 As a Junior Data Analyst at RetailTech Insights, a company that provides analytics solutions to Amazon sellers, I was tasked with analyzing product and customer review data. The goal was to extract actionable insights that support:
 - Product improvement
@@ -29,9 +29,9 @@ The dataset for this analysis comes from online e-commerce platforms. Sources ma
        1. data manipulation
        2. data munching
 
-### Project 2 Overview of Kultra Mega Stores Inventory Analysis
+### Project 2 Overview of Kultra Mega Stores Inventory Analysis [SEE PROJECT](https://drive.google.com/file/d/1KmNoXKgkNiFEEuag1adMWJ7J4ACW6FC0/view?usp=sharing)
 
-As a Business Intelligence Analyst working with the Abuja Division of Kultra Mega Stores (KMS), I was responsible for analyzing order data between 2009–2012. KMS specializes in office supplies and furniture, catering to individuals, small retailers, and corporate clients across Nigeria.
+As a Business Intelligence Analyst working with the Abuja Division of Kultra Mega Stores (KMS), I was responsible for analyzing order data between 2009–2012. KMS specializes in office supplies and furniture, catering to individuals, small retail(ers, and corporate clients across Nigeria.
 Using SQL, I was tasked with uncovering patterns in:
 - Customer behavior
 - Product performance
