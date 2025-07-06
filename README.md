@@ -8,7 +8,7 @@ I have learnt a number of things ranging from Ms Excel and SQL and now to my por
 
 ## ProjecTopic: Amazon Product Review Analysis and Kultra Mega Stores Inventory Analysis
 
-### Project 1 Overview of  Amazon Product Review Analysis [SEE PROJECT] (https://docs.google.com/spreadsheets/d/1EUs3A12lauBiQOc4uDmswa_YXKLJB05A/edit?usp=sharing&ouid=113106892741220617192&rtpof=true&sd=true)
+### Project 1 Overview of  Amazon Product Review Analysis [SEE PROJECT](https://docs.google.com/spreadsheets/d/1EUs3A12lauBiQOc4uDmswa_YXKLJB05A/edit?usp=sharing&ouid=113106892741220617192&rtpof=true&sd=true)
 
 As a Junior Data Analyst at RetailTech Insights, a company that provides analytics solutions to Amazon sellers, I was tasked with analyzing product and customer review data. The goal was to extract actionable insights that support:
 - Product improvement
