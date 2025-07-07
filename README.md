@@ -16,11 +16,14 @@ As a Junior Data Analyst at RetailTech Insights, a company that provides analyti
 - Marketing optimization
 
 
-### Data Source
-The dataset for this analysis comes from online e-commerce platforms. Sources may include:
-- Kaggle: Open-source datasets on sales transactions.
-- Google Trends: Tracking consumer interest in products.
-- Web Scraping: Extracting structured sales data from online stores (ensure ethical compliance)
+### Data Description
+The dataset contains information scraped from Amazon product pages, including:
+- Product details: name, category, price, discount, and ratings
+- Customer engagement: user reviews, titles, and content
+- Each row represents a unique product, with aggregated reviewer data
+stored as comma-separated values
+Total Records: 1,465 rows
+TotalFields: 16 columns
 
 ### Tools Used
 - Ms Excel for data cleaning [Download Here](https://wwww.microsoft.com)
